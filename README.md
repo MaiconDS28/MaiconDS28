@@ -26,8 +26,6 @@ Busco constantemente aprimorar minhas habilidades e acompanhar as tendências do
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
 | **API REST para Gestão de Estoque** | API para controle de produtos, fornecedores e vendas, com autenticação JWT. | Java, Spring Boot, MySQL |
-| **Sistema Web de Tarefas** | Aplicação para gerenciamento de tarefas com autenticação e CRUD completo. | Java, Spring Boot, HTML, CSS, JS |
-| **Landing Page Responsiva** | Página institucional otimizada para conversão, 100% responsiva. | HTML, CSS, JavaScript |
 
 ---
 
@@ -39,9 +37,9 @@ Busco constantemente aprimorar minhas habilidades e acompanhar as tendências do
 ---
 
 ## 📫 Como me encontrar
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil)
+- 💼 [LinkedIn](https://www.linkedin.com/in/maiconds28)
 - 💻 [GitHub](https://github.com/MaiconDS28)
-- ✉ **E-mail:** seuemail@exemplo.com
+- ✉ **E-mail:** maicondousil@gmail.com
 
 ---
 
