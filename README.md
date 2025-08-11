@@ -29,7 +29,7 @@ Busco constantemente aprimorar minhas habilidades e acompanhar as tendências do
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
-| **API REST para Gestão de Estoque** | API para controle de produtos, fornecedores e vendas, com autenticação JWT. | Java, Spring Boot, MySQL |
+| **NOme** | Explicação | LInguagens |
 
 ---
 
