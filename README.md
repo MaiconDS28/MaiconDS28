@@ -29,7 +29,7 @@ Busco constantemente aprimorar minhas habilidades e acompanhar as tendências do
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
-| **NOme** | Explicação | LInguagens |
+| **Gerenciador de Tarefas** | Sistema básico de gerenciamento de tarefas usando Java e Spring Boot | java, Spring Boot 3.5.4, Spring Web,   |
 
 ---
 
