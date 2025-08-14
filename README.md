@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Maicon%20-%20Desenvolvedor%20Java&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Back-end%20%7C%20Front-end%20%7C%20Desenvolver-App%20&descAlignY=55&descAlign=50)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Maicon%20-%20Desenvolvedor%20Java&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Back-end%20%7C%20Front-end%20%7C%20Desenvolvedor-App%20&descAlignY=55&descAlign=50)
 
 
 # 👋 Olá, eu sou o Maicon!
