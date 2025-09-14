@@ -24,6 +24,7 @@ Busco constantemente aprimorar minhas habilidades e acompanhar as tendências do
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Controle de Versão**
+![Git](https://img.shields.io/badge/Git-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 - Git (branching, commits, pull requests, merge)
 
 ---
