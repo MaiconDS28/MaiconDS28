@@ -34,7 +34,6 @@ Busco constantemente aprimorar minhas habilidades e acompanhar as tendências do
 |---------|-----------|-------------|
 | **Gerenciador de Tarefas** | Sistema básico de gerenciamento de tarefas com CRUD e persistência. | Java · Spring Boot 3.5.4 · Spring Web |
 | **Calculadora em Java** | Aplicação simples para reforçar estruturas de decisão e lógica. | Java |
-| **Estudos Java** | Repositório com exercícios e exemplos práticos para aprimorar conhecimentos em Java. | Java |
 | **Análise de Preço** | Projeto acadêmico envolvendo análise de preços e algoritmos, feito em C. | C |
 | **Lógica de Programação** | Exercícios estruturados em pseudocódigo / Portugol. | Portugol |
 | **Outros Estudos** | Pequenos exercícios e experimentos para aprendizado contínuo. | Java, C, JavaScript, etc. |
