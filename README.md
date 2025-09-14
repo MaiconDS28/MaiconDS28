@@ -50,12 +50,10 @@ Busco constantemente aprimorar minhas habilidades e acompanhar as tendências do
 ---
 
 ## 📫 Como me encontrar
-![Linkedin](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white)
-- [LinkedIn](https://www.linkedin.com/in/maiconds28)
-![Instagram](https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)  
-- [Instagram](https://www.instagram.com/maiconds28)
-  
-- ✉ **E-mail:** maicondousil@gmail.com
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maiconds28)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maiconds28)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maicondousil@gmail.com)
 
 ---
 
