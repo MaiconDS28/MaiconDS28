@@ -25,7 +25,7 @@ Busco constantemente aprimorar minhas habilidades e acompanhar as tendências do
 
 **Controle de Versão**
 
-![Git](https://img.shields.io/badge/Git-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-38B2AC?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
