@@ -1,6 +1,5 @@
 <!-- Banner -->
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Maicon%20-%20Desenvolvedor%20Java&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Back-end%20%7C%20Front-end%20%7C%20Desenvolvedor-App%20&descAlignY=55&descAlign=50)
-
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Maicon%20-%20Desenvolvedor%20Java&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Back-end%20%7C%20Front-end%20%7C%20Desenvolvedor%20de%20Aplicações&descAlignY=55&descAlign=50)
 
 # 👋 Olá, eu sou o Maicon!
 
@@ -19,9 +18,13 @@ Busco constantemente aprimorar minhas habilidades e acompanhar as tendências do
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Controle de Versão**
+- Git (branching, commits, pull requests, merge)
 
 ---
 
@@ -29,7 +32,12 @@ Busco constantemente aprimorar minhas habilidades e acompanhar as tendências do
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
-| **Gerenciador de Tarefas** | Sistema básico de gerenciamento de tarefas usando Java e Spring Boot | java, Spring Boot 3.5.4, Spring Web |
+| **Gerenciador de Tarefas** | Sistema básico de gerenciamento de tarefas com CRUD e persistência. | Java · Spring Boot 3.5.4 · Spring Web |
+| **Calculadora em Java** | Aplicação simples para reforçar estruturas de decisão e lógica. | Java |
+| **Estudos Java** | Repositório com exercícios e exemplos práticos para aprimorar conhecimentos em Java. | Java |
+| **Análise de Preço** | Projeto acadêmico envolvendo análise de preços e algoritmos, feito em C. | C |
+| **Lógica de Programação** | Exercícios estruturados em pseudocódigo / Portugol. | Portugol |
+| **Outros Estudos** | Pequenos exercícios e experimentos para aprendizado contínuo. | Java, C, JavaScript, etc. |
 
 ---
 
@@ -47,4 +55,4 @@ Busco constantemente aprimorar minhas habilidades e acompanhar as tendências do
 
 ---
 
-🔹 *"A tecnologia move o mundo, e o conhecimento move a tecnologia."*  
+🔹 *"A tecnologia move o mundo, e o conhecimento move a tecnologia."*
