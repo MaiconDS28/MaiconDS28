@@ -50,8 +50,11 @@ Busco constantemente aprimorar minhas habilidades e acompanhar as tendências do
 ---
 
 ## 📫 Como me encontrar
-- 💼 [LinkedIn](https://www.linkedin.com/in/maiconds28)
-- 💻 [GitHub](https://github.com/MaiconDS28)
+![Linkedin](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white)
+- [LinkedIn](https://www.linkedin.com/in/maiconds28)
+![Instagram](https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)  
+- [Instagram](https://www.instagram.com/maiconds28)
+  
 - ✉ **E-mail:** maicondousil@gmail.com
 
 ---
