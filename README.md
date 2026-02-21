@@ -51,49 +51,51 @@ Sou desenvolvedor apaixonado por tecnologia e resolução de problemas, com foco
 
 | Projeto | Descrição | Tecnologias | Status |
 |---------|-----------|-------------|--------|
-| [![Gerenciador de Tarefas](https://img.shields.io/badge/Gerenciador_de_Tarefas-📋-brightgreen)](https://github.com/MaiconDS28/Tarefas-Gerenciador-Java) | Sistema completo de gerenciamento de tarefas com CRUD, validações e persistência em memória. | Java · Spring Boot · Spring Web | ✅ Concluído |
-| [![Calculadora Java](https://img.shields.io/badge/Calculadora_Java-🧮-blue)](https://github.com/MaiconDS28/Calculadora_Java) | Calculadora com operações básicas e interface no console, ideal para estudos de lógica. | Java | ✅ Concluído |
-| [![Análise de Preço](https://img.shields.io/badge/Análise_de_Preço-📊-orange)](https://github.com/MaiconDS28/Analise_de_Preco) | Projeto acadêmico para análise de preços utilizando estruturas de dados em C. | C · Algoritmos | ✅ Concluído |
-| [![Estudos Java](https://img.shields.io/badge/Estudos_Java-☕-red)](https://github.com/MaiconDS28/Estudos_Java) | Repositório com exercícios, desafios e anotações sobre Java e POO. | Java · POO | 🔄 Em andamento |
-| [![Lógica de Programação](https://img.shields.io/badge/Lógica_de_Programação-💡-yellow)](https://github.com/MaiconDS28/Logica-de-Programacao) | Exercícios estruturados em pseudocódigo / Portugol para fundamentos de lógica. | Portugol · Algoritmos | ✅ Concluído |
+| [**Gerenciador de Tarefas**](https://github.com/MaiconDS28/Tarefas-Gerenciador-Java) | Sistema completo de gerenciamento de tarefas com CRUD, validações e persistência em memória. | Java · Spring Boot · Spring Web | ✅ Concluído |
+| [**Calculadora Java**](https://github.com/MaiconDS28/Calculadora_Java) | Calculadora com operações básicas e interface no console, ideal para estudos de lógica. | Java | ✅ Concluído |
+| [**Análise de Preço**](https://github.com/MaiconDS28/Analise_de_Preco) | Projeto acadêmico para análise de preços utilizando estruturas de dados em C. | C · Algoritmos | ✅ Concluído |
+| [**Estudos Java**](https://github.com/MaiconDS28/Estudos_Java) | Repositório com exercícios, desafios e anotações sobre Java e POO. | Java · POO | 🔄 Em andamento |
+| [**Lógica de Programação**](https://github.com/MaiconDS28/Logica-de-Programacao) | Exercícios estruturados em pseudocódigo / Portugol para fundamentos de lógica. | Portugol · Algoritmos | ✅ Concluído |
 
 ---
 
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaiconDS28&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=contribs"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiconDS28&layout=compact&langs_count=6&theme=dracula&hide=contribs"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MaiconDS28&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=contribs"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiconDS28&layout=compact&langs_count=6&theme=dracula"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaiconDS28&theme=dracula" alt="GitHub Streak"/>
 </div>
 
-### 📊 Resumo
+### 📊 Resumo das Contribuições
 
-- 🟢 **Total de Contribuições:** 149 (desde Set/2022)
-- 🔥 **Sequência Atual:** 6 dias (desde 21/Fev)
-- ⚡ **Maior Sequência:** 6 dias (13-18/Set/2025)
+<div align="center">
+  
+| | |
+|---|---|
+| 🟢 **Total de Contribuições** | 149 (desde Set/2022) |
+| 🔥 **Sequência Atual** | 6 dias (desde 21/Fev) |
+| ⚡ **Maior Sequência** | 6 dias (13-18/Set/2025) |
+
+</div>
+
+---
+
+## 📅 Gráfico de Contribuições
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/2c5364/MaiconDS28" alt="Gráfico de contribuições do Maicon" width="100%"/>
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MaiconDS28&theme=dracula&no-frame=true&row=2&column=3&margin-w=15&margin-h=15"/>
-</div>
-
----
-
-## 🐍 Minhas Contribuições
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MaiconDS28/MaiconDS28/blob/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/MaiconDS28/MaiconDS28/blob/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://github.com/MaiconDS28/MaiconDS28/blob/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://github-profile-trophy.vercel.app/?username=MaiconDS28&theme=dracula&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
 </div>
 
 ---
