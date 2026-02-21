@@ -62,20 +62,26 @@ Sou desenvolvedor apaixonado por tecnologia e resolução de problemas, com foco
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaiconDS28&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiconDS28&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaiconDS28&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=contribs"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiconDS28&layout=compact&langs_count=6&theme=dracula&hide=contribs"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaiconDS28&theme=dracula" alt="GitHub Streak"/>
 </div>
 
+### 📊 Resumo
+
+- 🟢 **Total de Contribuições:** 149 (desde Set/2022)
+- 🔥 **Sequência Atual:** 6 dias (desde 21/Fev)
+- ⚡ **Maior Sequência:** 6 dias (13-18/Set/2025)
+
 ---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MaiconDS28&theme=dracula&row=2&column=3&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=MaiconDS28&theme=dracula&no-frame=true&row=2&column=3&margin-w=15&margin-h=15"/>
 </div>
 
 ---
@@ -83,7 +89,11 @@ Sou desenvolvedor apaixonado por tecnologia e resolução de problemas, com foco
 ## 🐍 Minhas Contribuições
 
 <div align="center">
-  <img src="https://github.com/MaiconDS28/MaiconDS28/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MaiconDS28/MaiconDS28/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/MaiconDS28/MaiconDS28/blob/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/MaiconDS28/MaiconDS28/blob/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
